@@ -20,7 +20,8 @@ TASK DESCRIPTION
  For launching application use Class Main.
 
  You can work with application using console menu.
- Firstly you need to create Room(Option 1). After this step, you can create units and add it into existing Room(Option 2)
+ Firstly you need to create Room(Option 1). 
+ After this step, you can create units and add it into existing Room(Option 2)
  Each Unit need to have not null Name, not null positive power, and added to existing room
  You can delete unit (Option 3), power On (Option 4) and Power OFF(Option 5) Unit from the Room by providing unit ID.
  Unit Id - unique automatically generated value. You can find it in the Units list (Option 6)
@@ -28,3 +29,4 @@ TASK DESCRIPTION
  You can see total power consumption (Option 8)
  You can find unit by providing some chars from it name or full name (Option 9)
  For application terminating use Option 0
+ 
